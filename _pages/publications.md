@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+I am but a mere first year grad student in a theory field. There will be stuff here... eventually.
+
 {% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
