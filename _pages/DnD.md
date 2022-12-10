@@ -2,7 +2,7 @@
 layout: archive
 title: "Dungeons and Dragons"
 permalink: /DnD/
-author_profile: false
+author_profile: true
 ---
 
 The tabletop roleplaying game, Dungeons and Dragons, serves as an engaging way to train multiple muscles required for effective science communication. The least of which incluse:
