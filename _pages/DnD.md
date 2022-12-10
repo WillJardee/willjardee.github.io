@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 The tabletop roleplaying game, Dungeons and Dragons, serves as an engaging way to train multiple muscles required for effective science communication. The least of which incluse:
+
     * Intromptu speaking,
     * Creative problem-solving,
     * Risk analysis with explicit error probabilities.
+    
 In 2020, I started planning and excecuting (often called Dungeon Mastering) a game of Dungeons and Dragons 5e for a group of undergraduate physics peers. I have to this date, with a few breaks in that time, continued to prepare, run, and analyze games with story focused groups, and mechanics focused groups. These both have expanded my ability to craft engaging stories, a common feature of effective science communication, and make quick judgement calls that balance player happiness with game balance, a requirement for effective team leading.
 
 I am currently putting effort towards developing a setting (set of rules, locations, characters, and story-lines) for D&D that attempts to incorporate modern physics concepts (such as elementary particle physics and general relativity) into explainations of magical phenomina. The hope is to be able to expand this concept into a concrete, short book that can help interest players into the mystery that is modern physics. 
