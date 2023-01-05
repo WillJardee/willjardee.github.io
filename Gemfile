@@ -25,3 +25,11 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem 'tzinfo-data'
+gem "jekyll", "3.9.0"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+gem "jekyll-redirect-from"
+gem "kramdown-parser-gfm"
+gem "webrick"

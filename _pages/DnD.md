@@ -5,6 +5,8 @@ permalink: /DnD/
 author_profile: true
 ---
 
+Want to start running games? [Check out some of my favorite resources!](./resources)
+
 The tabletop roleplaying game, Dungeons and Dragons, serves as an engaging way to train multiple muscles required for effective science communication. The least of which incluse:
 
 * Intromptu speaking,
