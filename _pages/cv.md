@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This is currently under construction. In the meantime see [my CV](../files/cv_6.pdf).
+[This](This) is currently under construction. In the meantime see [my CV](../files/cv_6.pdf).

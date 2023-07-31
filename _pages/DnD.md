@@ -5,10 +5,7 @@ permalink: /DnD/
 author_profile: true
 ---
 
-**[#OpenDnD](https://www.opendnd.games/)** The whole D&D OGL (Open Games License) 1.1a by WoTC is confusing. Check out [#OpenDnD](https://www.opendnd.games/) to keep yourself up to date. Here are some other resources:\
-[Legal View Video](https://www.youtube.com/watch?v=MDuHjpwx5Q4) - "... the risk isn't that great, but it's not zero."\
-[CritCrab's Coverage](https://www.youtube.com/watch?v=m6U7Ky0AD_M) - Cancel your [DnDBeyond subscription](https://www.dndbeyond.com/store/subscriptions/manage) to show solidarity.\
-[Moist Critical's Coverage](https://www.youtube.com/watch?v=lGbcHyQ2v3c)
+**[#OpenDnD](https://www.opendnd.games/)**: DnD caved to the demands of the people and we will be maintaining the openDnD rules!
 {: .notice}
 
 Want to start running games? [Check out some of my favorite resources!](./resources)
