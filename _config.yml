@@ -5,19 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+minimal_mistake_skin     : "dark"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Will Jardee"
 title_separator          : "-"
 name                     : &name "Will Jardee"
 description              : &description "personal description"
-url                      : https://willjardee.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://willjardee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WillJardee/willjardee.github.io"
+repository               : "willjardee/willjardee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 100
-future                   : true
+words_per_minute         : 160
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -80,15 +83,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "William (Will) Jardee"
-  avatar           : "profile1.png"
-  bio              : "Some stuff about me and things."
+  name             : "Will Jardee"
+  avatar           : "profile_transparent.png"
+  bio              : "Smell the roses and do the theory."
   location         : "Bozeman, MT"
-  employer         :
+  employer         : "Montana State Univeristy"
   pubmed           : 
   googlescholar    : 
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/William-Jardee"
+  email            : "willjardee@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WillJardee"
+  github           : "willjardee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/will-jardee-9370a823b/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "will-jardee-9370a823b/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
