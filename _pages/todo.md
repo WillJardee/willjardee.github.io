@@ -7,8 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# TODO
+This is a page of my personal TODO lists. If you are not me, what are you doing?! Get out of here kid!!
 
-## TODO
+
+## ACO Research
+
+## Museum
+
+## JHU
+- [ ] Rubrics
+  - [ ] Write project 1 rubric
+  - [ ] Write project 2 rubric
+  - [ ] Write project 3 rubric
+  - [ ] Write project 4 rubric
+  - [ ] Study paper rubric and change paper rubric component
+- [ ] Look for plagiarism
+  - [ ] Plagiarism check website - MOSS (not sure why its not working)
+  - [ ] githubs (there are quite a few)
+
+## Website
 - [ ] Teaching 
   - [ ] Add entries
   - [ ] Clean up old entries; add links
