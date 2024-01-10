@@ -11,12 +11,11 @@ redirect_from:
 This is a page of my personal TODO lists. If you are not me, what are you doing?! Get out of here kid!!
 
 **TODO TODAY**
-- [ ] (09:00-12:00) Extract where theory seems to be breakding down
-- [ ] (12:00-01:00) Write up explanation of issues and need for guidance from Sheppard
-- [ ] (01:00-02:00) Edit Syllabus
-- [ ] (02:00-04:00) Edit Rubrics
 {:.notice}
 
+## General
+### School
+- [ ] Ph.D. annual review
 
 ## ACO Research
 - [ ] Extract where theory seems to be breaking down
