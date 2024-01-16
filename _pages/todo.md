@@ -25,7 +25,7 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 - [ ] Continue research into history
 - [ ] Mock up timeline and events - do in illustrator
 
-## [JHU](JHU)
+## JHU
 - [ ] Look for plagiarism
   - [ ] Plagiarism check website - MOSS (not sure why its not working)
   - [ ] githubs (there are quite a few)
