@@ -22,14 +22,10 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 - [ ] Write up explanation of issues and need for guidance from Sheppard
       
 ## Museum
+- [ ] Continue research into history
+- [ ] Mock up timeline and events - do in illustrator
 
-## JHU
-- [ ] Rubrics
-  - [ ] Write project 1 rubric
-  - [ ] Write project 2 rubric
-  - [ ] Write project 3 rubric
-  - [ ] Write project 4 rubric
-  - [ ] Study paper rubric and change paper rubric component
+## [JHU](JHU)
 - [ ] Look for plagiarism
   - [ ] Plagiarism check website - MOSS (not sure why its not working)
   - [ ] githubs (there are quite a few)
