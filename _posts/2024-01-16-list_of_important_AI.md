@@ -13,38 +13,53 @@ As I am putting together more work for the AI exhibit, it is becoming clear just
  - [Nervous Net](https://link.springer.com/article/10.1007/BF02478259) (Warren S. McCulloch & Walter Pitts - 1943):<br>
 This is the initial preposition of a Neural Network. The action of a nervous system is seen as an "all-or-none" (binary) system where the decision to activate is the result of some function of preceding nodes. The ideas set in this paper do not directly shadow the current structure of nodes, weights, and activation functions, but contain the fundamental ideas that motivate those structures
 
+- Hebbian Learning (Hebb - 1949):<br>
+
  - [Perceptrons](https://psycnet.apa.org/record/1959-09865-001) (Frank Rosenblatt - 1958):<br>
 The structure of this model is very close to the Multilayered Perceptrons (MLP) that we are familiar with today. One of the key differences is that the activation function used is a step function; this is the same "all-or-none" idea as the Nervous Net. For backpropegation to be used, however, the activation function must be differentiable, and thus this model is not actually trainable in a general sense. In the paper, Rosenblatt ends up using a corrective reinforcement learning method, similar to gradient decent, but using a constant value $\Delta V$. 
 
- - ADALINE (Hoff and Widrow - 1960):<br>
+- Perceptron Convergence Theory (Block - 1962):<br>
 
- - Symmantic Networks (Quillan - 1967):<br>
+- ADALINE (Hoff and Widrow - 1960):<br>
 
- - ELIZA (Weizenbaum - 1964-1967):<br>
+- Symmantic Networks (Quillan - 1967):<br>
 
- - Hopfield Net (Hopfield - 1982):<br>
+- ELIZA (Weizenbaum - 1964-1967):<br>
 
- - Reverse Mode automatic differentiation (Linnainma - 1970):<br>
+- Hopfield Net (Hopfield - 1982):<br>
 
- - Backprops to MLPs (Warbos - 1971, Rumbelhart - 1982):<br>
+- Reverse Mode automatic differentiation (Linnainma - 1970):<br>
 
- - Deep Learning (Rumbelhart - 1980s): <br>
+- Backprops to MLPs (Warbos - 1971, Rumbelhart - 1982):<br>
 
+- Deep Learning (Rumbelhart - 1980s): <br>
 
+- Deep Learning II (Bergio & Hinton & LeCun):<br>
 
 ## Symbolic
 - Logic Theorist (Newell & Simon & Shaw - 1956):<br>
 
 - General Problem Solver (Simon & Shaw - 1957):<br>
 
+- Physical Systems Hypothesis (Newell & Simon - 1976):<br>
+
 - Advise Taker (McCarthy - 1958):<br>
+
+- Geometric Theorem Prover (Gelernter - 1959):<br>
 
 - Resolution/Unification (Robinson - 1963):<br>
 
 - Horn Clauses (Horn - 1951)
 
-- Expert Systems (Feigenbaum - 1965): <br> 
+- Expert Systems (Feigenbaum & Raj Reddy - 1965): <br> 
 Mycin, Dendral
+
+## Others
+- Machine Evolution (Fiedburg - 1959):<br>
+- HMMs (1980s):<br>
+- Bayesian Network (Pearl - 1988):<br>
+- Reinforcment Learning (Samuel - 1950s):<br>
+- MDP (Sutton - 1980):<br>
 
 ## General Breakthroughs (sort these accordingly above)
 - DeepBlue beats grandmaster at chess (1997)
