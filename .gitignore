@@ -1,2 +1,8 @@
 _site/
 
+# Latex files
+*.aux
+*.fdb_latexmk
+*.log
+*.fls
+*.synctex.gz
