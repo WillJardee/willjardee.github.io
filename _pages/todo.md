@@ -1,7 +1,6 @@
 ---
 permalink: /todo
 title: "Will Jardee's Personal TODO list"
-# excerpt: "My personal TODO list"
 author_profile: true
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 'Collection of Random Resources for AI/ML I Found'
-date: 2024-01-16
+title: 'Collection of Random Resources I Found'
+date: 2024-01-22
 permalink: /posts/2024/01/learning_tools/
 tags:
   - tools
