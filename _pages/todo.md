@@ -16,6 +16,7 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 
 # School
 - Ph.D. annual review
+- [Animate Your Science Poster](https://www.animateyour.science/scientific-poster-design-course)
 
 # ACO Research
 [Gecco](https://gecco-2024.sigevo.org/Important-Dates): Feb 2; [ANTS](https://www.uni-konstanz.de/ants-2024/#conference): March 24

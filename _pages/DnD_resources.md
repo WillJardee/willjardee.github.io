@@ -53,5 +53,6 @@ author_profile: true
 - Data Sets
   - [D&D Character Statistics](https://github.com/oganm/dndstats)
   - [Analysis of Critical Role](https://huggingface.co/datasets/crd3)
+  - [D&D Monster Manual 5e csv](https://miroz.com.hr/random/monsters.html)
 - Examples
   - [Machine Learning Example](https://towardsdatascience.com/classifying-character-classes-in-dungeons-dragons-with-machine-learning-86751240594d)
