@@ -42,6 +42,7 @@ tags:
 - [LuaTex-Doc](https://ctan.mirrors.hoobly.com/info/luatex/lualatex-doc/lualatex-doc.pdf)
 - [List of LaTeX mathematical Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 - [Overleaf](https://www.overleaf.com/project)
+- [Another list of resources](https://latex.org/forum/viewtopic.php?f=5&t=2177)
 
 # Arch Linux
 - [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
