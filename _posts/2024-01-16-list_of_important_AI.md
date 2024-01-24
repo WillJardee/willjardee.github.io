@@ -97,6 +97,8 @@ Mycin, Dendral
 - MDP (Sutton - 1980):<br>
 - Bayesian Network (Pearl - 1988):<br>
 
+- John Koza
+
 ## General Breakthroughs (sort these accordingly above)
 ### Gaming
 - DeepBlue beats grandmaster at chess (1997)

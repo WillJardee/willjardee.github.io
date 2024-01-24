@@ -18,9 +18,12 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
   - How much material do you need out of this?
   - Deadline for the help material?
   - How much of AlphaStar do you want? Need: __A3C__ struct for __transformers__ for __relational inductive bias__, deep __LSTM__ core, __auto-regressive__ policy head with a __pointer network__, centralized __value baseline__.
+  - value network and policy network - alphago (monte carlo tree search)
+  - Add course information (directions)
 - Fire
   - Give me more details on what my part will be
   - updated timeline/details?
+  - discrete form CBTN -> apply to problem (using JSAPPHIRE)
 {:.notice}
 
 
@@ -37,6 +40,7 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 
 # ACO Research
 [Gecco](https://gecco-2024.sigevo.org/Important-Dates): Feb 2; [ANTS](https://www.uni-konstanz.de/ants-2024/#conference): March 24
+- Commit to PPO-ACO
 - Work through Zotero backlog
 - Transform into TSP problem
 - Review other work - [Binary Chains](https://link.springer.com/article/10.1007/s11721-012-0074-3), [GBA](https://www.sciencedirect.com/science/article/abs/pii/S0167739X00000443)
@@ -45,6 +49,12 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 - Non-stationary markov processes 
 - Application fo the theory that I have found
 - PPO-ACO
+- Fill in the details of the pheromone update 
+  - clearer theoretical constructs/how to construct
+  - better experimental design?
+  - What does this mean to applying to problems? 
+  - Write their results in language that makes more sense, add call for work and work going forward
+- can the guess at the shortest bound help inform a new version of the algorithm
 
 # SMART-fireS
 -  Read Proposal
