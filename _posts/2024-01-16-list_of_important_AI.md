@@ -15,7 +15,8 @@ This is the initial preposition of a Neural Network. The action of a nervous sys
 
 - Hebbian Learning (Hebb - 1949):<br>
 
-- SNARC (Marvin Minksy & Dean Edmonds - 1951)<br>
+- [SNARC](https://www.wikiwand.com/en/Stochastic_Neural_Analog_Reinforcement_Calculator) (Marvin Minksy & Dean Edmonds - 1951):<br>
+"This machine is considered one of the first pioneering attempts at the field of artificial intelligence."
 
  - [Perceptrons](https://psycnet.apa.org/record/1959-09865-001) (Frank Rosenblatt - 1958):<br>
 The structure of this model is very close to the Multilayered Perceptrons (MLP) that we are familiar with today. One of the key differences is that the activation function used is a step function; this is the same "all-or-none" idea as the Nervous Net. For backpropegation to be used, however, the activation function must be differentiable, and thus this model is not actually trainable in a general sense. In the paper, Rosenblatt ends up using a corrective reinforcement learning method, similar to gradient decent, but using a constant value $\Delta V$. 
@@ -60,6 +61,10 @@ The structure of this model is very close to the Multilayered Perceptrons (MLP) 
 
 
 ## Symbolic
+- Block World Learning
+
+- AQ-(Ryszard Michalski)
+
 - Horn Clauses (Horn - 1951)
 
 - Logic Theorist (Newell & Simon & Shaw - 1956):<br>
