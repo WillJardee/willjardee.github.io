@@ -10,8 +10,8 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 **TODO TODAY**
 - SCI-MI onboarding
 - Collect RL info for sheppard
-- Write quick blog post about Zotero and Inciteful pipeline
-- Inciteful plugin for Zotero
+- Read up on CTBN
+- Work on formulation of PPOACO
 {:.notice}
 
 # School
