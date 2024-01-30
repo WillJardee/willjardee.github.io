@@ -10,7 +10,6 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 **TODO TODAY**
 - SCI-MI onboarding
 - Collect RL info for sheppard
-- Read up on CTBN
 - Work on formulation of PPOACO
 {:.notice}
 
@@ -34,15 +33,12 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 - Application fo the theory that I have found
 
 # SMART-fireS
--  Read Proposal
--  Read expected timeline
--  Ideas
-   -  Spacial statistics to pull patterns out of hyperspectral data - look for hot spots; point patterns vs. shape patterns
-   -  multi-parameter persistance
-- discrete form CBTN -> apply to problem (using JSAPPHIRE)
+- Read Proposal
+- CTBN, CTDN
+- Organize and figure out Yubet
 
 # Museum
-- Continue research into history
+- Flesh out history
 - Mock up timeline and events - do in illustrator/Inkscape
 
 # JHU
@@ -51,7 +47,7 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 - Help prep the last classes
   - PPO
   - Actor-Critic
-  - - value network and policy network - AlphaGo (monte carlo tree search)
+  - value network and policy network - AlphaGo (monte carlo tree search)
 - Look for plagiarism
   - Plagiarism check website - MOSS (not sure why its not working)
   - githubs (there are quite a few)
@@ -76,3 +72,12 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
   - Add personal linux build
   - Add links
   - Add bash scripts
+
+# Math Monday
+- Calculus of Variations
+- Perturbation Theory
+- Control Theory
+- Information Theory
+- Dynamical Systems
+- Statistical/Computational Learning Theory
+
