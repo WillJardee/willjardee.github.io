@@ -27,6 +27,15 @@ tags:
 
 # Machine Learning
 - [Video of Neural Network Learning](https://medium.com/deep-learning-101/how-to-generate-a-video-of-a-neural-network-learning-in-python-62f5c520e85c)
+- [TensorFlow Playground](https://playground.tensorflow.org/)<Br>
+  An interactive model of a Neural Network to give you some idea on how the architecture works.
+- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)<Br>
+  Collection of resources and tutorials from OpenAI to get you started in Deep (Neural Network based) Reinforcement Learning.
+- [Quick reference of ML terms](https://developers.google.com/machine-learning/glossary)
+- [TensorFlow's collection of resources](https://www.tensorflow.org/resources/learn-ml)
+- [Google's collection of resources](https://developers.google.com/machine-learning/)
+- [Hugging Face](https://huggingface.co/)<Br>
+  Collection of papers, databases, portfolio building, resource renting, etc.
 
 # R
 - [R Manual](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
