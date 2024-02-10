@@ -1,7 +1,7 @@
 ---
 permalink: /to-read
 title: "To Read"
-excerpt: "Things I have saved to read later"
+# excerpt: "Things I have saved to read later"
 author_profile: true
 ---
 
