@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Will Jardee's Personal Website"
-excerpt: "Nothing here yet"
+# excerpt: "Nothing here yet"
 author_profile: true
 redirect_from: 
   - /about/
