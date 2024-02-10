@@ -35,6 +35,19 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 {:.notice}
 
 
+museum:<br>
+- meeting with eleanor in the next two weeks
+- design document
+  - the location
+  - history
+  - website
+- completed from history
+- goal to be done by mid summer
+
+calendar event for smart-fires
+
+-- adding a line to force and update
+
 **TODO TODAY**
 - SCI-MI onboarding
 - Collect RL info for sheppard
@@ -44,6 +57,7 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 # School
 - Ph.D. annual review; ensure it is submitted
 - [Animate Your Science Poster](https://www.animateyour.science/scientific-poster-design-course)
+- read the AML reading list
 
 # ACO Research
 [ANTS](https://www.uni-konstanz.de/ants-2024/#conference): March 24
