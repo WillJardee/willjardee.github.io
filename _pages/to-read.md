@@ -5,6 +5,14 @@ title: "To Read"
 author_profile: true
 ---
 
+# Personal Development
+- [x] [The God Delusion](https://www.goodreads.com/book/show/14743.The_God_Delusion) by Richard Dawkins
+- [x] [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by Mark Manson
+- [ ] [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
+- [ ] [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work) by Cal Newport
+- [ ] [The Power of Small](https://www.goodreads.com/book/show/40537374-the-power-of-small) by Aisling Leonard-Curtin and Dr. Trish Leonard-Curtin
+- [ ] [Godel, Escher, Bach](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) by Douglas R. Hofstadter
+
 # Accessibility
 - [Interaction Design Foundation - Accessibility](https://www.interaction-design.org/literature/topics/accessibility)
 - [W3C - Web Standards](https://www.w3.org/standards/) 
