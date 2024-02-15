@@ -7,31 +7,27 @@ author_profile: true
 This is a page of my personal TODO lists. If you are not me, what are you doing?! Get out of here kid!!
 
 **Sheppard Meeting**
-- Return book
-- Organize Yabet
-  - Key for the lab -> get the room number to Sheppard and grab from pew (will need to get back at the end of the semester)
-  - What is his objectives (for the independent study - education outreach and the like)
-    - coloar and friedman
-    - JSAPPHIRE:
-      - no diagnosis trappings we do not need
-      - Risk, will need something as a fault tree
-    - Need to do a literature review on traditional approaches "Probabilistic risk assessment"
-      - A lot comes from teh NASA community; from a static perspective - understanding the risk and account for them in the design
-      - We are doing a dynamic approach - it seems that CTDN is the frontier
-  - where do the undergrads fit into this
-    - no REU
-    - 4 summer interns per a year
-- Museum
-  - Who are the biggest players; working on timeline (there is always more and more)
-- ACO
-  - Help formulating policy
-  - MDP is back; the transition of the pheromone matrix, $T$, is an absorbing Markov chain, but the policy from the pheromones does not follow a good MDP.
-- JHU
-  - Ready to use tonight 
+- Updates:
+  - Some work on the outline
+  - Been reading up on probabilistic models
+  - Project for Math of ML 
+- Questions
+  - What is the relationship between SI, RL, GA?
+  - how ot get a value function? 
+  - How is the ML course? First assignment is due Sunday?
+    - watch for people not doing the split correctly
+    - Paul Glusha (??): watch that knn uses no kernel; you have to cite fact you are using the old code. 
+    - John Jamanis: point grubber and stickler for details.
+    - Megan Lee: long running code question
+  - When is AML covering the PAC-approx paper?
+  - Realized that I forgot to reach out to Eleanor; try for this time next week?
 - Explicitly, what do you want from me next week?
-  - JHU outline tonight
-  - Museum mockup of timeline
-  - Review of ACO and the policy function; translation into advantage and value function
+  - Meeting with Eleanor
+  - Formalization of ACO in the language of RL; $\pi$, $Q^\pi_\theta$, and $V^\pi_\theta$ ($\nabla_\theta \pi$?). If time perimts this should be written up as an algorithm using GAE and general policy gradient in the realm of GACO. 
+  - Layout of exhibit digitalized as svg, to scale, and labeled with strategy.
+  - Papers graded.
+- Notes during:
+  - 
 {:.notice}
 
 
@@ -44,20 +40,12 @@ museum:<br>
 - completed from history
 - goal to be done by mid summer
 
-calendar event for smart-fires
-
--- adding a line to force and update
-
 **TODO TODAY**
-- SCI-MI onboarding
-- Collect RL info for sheppard
 - Work on formulation of PPOACO
 {:.notice}
 
 # School
-- Ph.D. annual review; ensure it is submitted
 - [Animate Your Science Poster](https://www.animateyour.science/scientific-poster-design-course)
-- read the AML reading list
 
 # ACO Research
 [ANTS](https://www.uni-konstanz.de/ants-2024/#conference): March 24
@@ -97,6 +85,7 @@ calendar event for smart-fires
 
 # Website
 - Add favicon.ico
+- Transform to al-folio
 - Teaching 
   - Add entries
   - Clean up old entries; add links
@@ -104,6 +93,7 @@ calendar event for smart-fires
   - Clear out old
   - Add in philosophy
   - Add first blog posts
+  - Conda on windows
 - CV
   - Update CV
   - Create Markdown copy of CV
@@ -115,6 +105,8 @@ calendar event for smart-fires
   - Add personal linux build
   - Add links
   - Add bash scripts
+
+  
 
 # Math Monday
 - Calculus of Variations

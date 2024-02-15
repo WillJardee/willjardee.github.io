@@ -40,3 +40,17 @@ author_profile: true
 
 # ACO/Swarm Intelligence
 - [ACO-Pants](https://pypi.org/project/ACO-Pants/)
+
+# AML Papers
+- [ ] S. Caton, S. Malisetty, and C. Haas. Impact of Imputation Strategies on Fairness in Machine Learning. Journal of Artificial Intelligence Research 74 (2022) 1011–1035.
+- [ ] J. Wang, L. Hopkins, T. Hallman, W. Robinson, and R. Hutchinson. Cross-validation for Geospatial Data: Estimating Generalization Performance in Geostatistical Problems. Transactions on Machine Learning Re- search, 09/2023, 1–40.
+- [ ] A. Turner and A. Kabán. PAC-Learning with Approximate Predictors. Machine Learning (2023) 112:1693–1732.
+- [ ] S. Chen, C. Gong, X. Li, J. Yang, G. Niu, and M. Sugiyama. Boundary-Restricted Metric Learning. Machine Learning (2023) 112:4723–4762.
+- [ ] N. Grüttemeier and C. Komusiewicz. Learning Bayesian Networks Under Sparsity Constraints: A Parameterized Complexity Analysis. Journal of Artificial Intelligence Research 74 (2022) 1225–1267.
+- [ ] N. Durrani, F. Dalvi, and H. Sajjad. Discovering Salient Neurons in Deep NLP Models. Journal of Machine Learning Research 24 (2023) 1–40.
+- [ ] M. Agarwal and V. Aggarwal. Reinforcement Learning for Joint Optimization of Multiple Rewards. Journal of Machine Learning Research 24 (2023) 1–41.
+- [ ] T. Nguyen, W. Browne, and M. Zhang. ConCS: A Continual Classifier System for Continual Learning of Multiple Boolean Problems. IEEE Transactions on Evolutionary Computation, Vol. 27. No. 4, August 2023, 1057–1071.
+- [ ] D. Aineto, S. Jiménez, and E. Onainda. A Comprehensive Framework for Learning Declarative Action Models. Journal of Artificial Intelligence Research 74 (2022) 1091–1123.
+- [ ] J. Raymaekers and R. Zamar. Regularized K-means Through Hard-Thresholding. Journal of Machine Learning Research 23 (2022) 1–48.
+- [ ] S. Zhou. Sparse SVM for Sufficient Data Reduction. IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 44, No. 9, September 2022, 5560–5571.
+- [ ] Y. Zhou and G. Hooker. Boulevard: Regularized Stochastic Gradient Boosted Trees and Their Limiting Distribution. Journal of Machine Learning Research 23 (2022) 1–44.
