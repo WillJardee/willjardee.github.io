@@ -69,3 +69,16 @@ Understand how you take notes, and how you want to. Some people do great with a 
 - [Inciteful](https://inciteful.xyz/) with Zotero bibtex
 ![Example image of plugging Zotero information into Inciteful](/images/incitefulxyz.png)
 - [Okular PDF viewer](https://okular.kde.org/) (I am currently looking for a replacement as Okular comes with unnecessary KDE bloat) and [Pencil](https://www.wikiwand.com/en/Pencil)/[Paper](https://www.wikiwand.com/en/Paper)
+
+# AI Tools
+With the rise of generally successful natural language processing models, the question arises of whether we can reliably use these models to sift through the mountains of literature that exists today. The answer: somewhat. I would not be doing my due dilagence is I didn't voice that these models rely on "averaging" over all text on the internet, using a probabilistic model of the space opposed to an explicitly imposed symbolic knowledge of some sort. This idea pops up in the idea of the grounding problem. When a NLP model gives you a result, we are not guarenteed that such answer is grounded in some sort of definitional axiomatic root. As such, it could easily be hallucinating (making up facts for the purpose of delivering a convincing narrative) or weaving an inconsistent arguement. Both are unsound arguments, the first from using a valid argument with false premises and the second using true premises with invalid arguments. All this said, analyze everything you read from a model under the assumption that the claims are unsound, using them as suggestions for directions in personal research.
+
+We have already seen some AI models above, but here is a short list of NLP based models that I have looked into (most are based off a Generative Pre-trained Transformer (GPT), often using OpenAI's work). 
+- [Consensus](https://www.consensus.app)
+- [SciSpace](https://typeset.io/): Cool website that allows you to search for topics/questions and get related papers. The results are then aggregated using CoPilot to create a synopsis of the results. A tabular list is returned with information according to proposed questions (i.e., what is the TL;DR of the paper, what were the contributions, etc.). The website offers pdf scraping. When looking at one paper, CoPilot can be used to explain text and math/tables. 
+- [HeyScience](https://www.heyscience.ai/)
+- [ResearchBudddy](https://researchbuddy.app/): I have not properly tested this model yet, as it requires you to sign up to use it. It has a good reviews on [product hunt](https://www.producthunt.com/products/researchbuddy-app).
+- [Writeful](https://www.writefull.com), [Grammarly](https://www.grammarly.com/), 
+- [Jenni](https://jenni.ai/), [Wisio](https://wisio.app/#blog), [Paperpal](https://paperpal.com/pricing)
+- [Penelope](https://www.penelope.ai), and  
+- [Kudos](https://www.growkudos.com/)
