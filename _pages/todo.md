@@ -8,26 +8,36 @@ This is a page of my personal TODO lists. If you are not me, what are you doing?
 
 **Sheppard Meeting**
 - Updates:
-  - Some work on the outline
-  - Been reading up on probabilistic models
-  - Project for Math of ML 
-- Questions
-  - What is the relationship between SI, RL, GA?
-  - how ot get a value function? 
-  - How is the ML course? First assignment is due Sunday?
-    - watch for people not doing the split correctly
-    - Paul Glusha (??): watch that knn uses no kernel; you have to cite fact you are using the old code. 
-    - John Jamanis: point grubber and stickler for details.
-    - Megan Lee: long running code question
-  - When is AML covering the PAC-approx paper?
-  - Realized that I forgot to reach out to Eleanor; try for this time next week?
-- Explicitly, what do you want from me next week?
-  - Meeting with Eleanor
-  - Formalization of ACO in the language of RL; $\pi$, $Q^\pi_\theta$, and $V^\pi_\theta$ ($\nabla_\theta \pi$?). If time perimts this should be written up as an algorithm using GAE and general policy gradient in the realm of GACO. 
-  - Layout of exhibit digitalized as svg, to scale, and labeled with strategy.
-  - Papers graded.
-- Notes during:
-  - 
+  - Spent most of the last week working on pres: 
+    - Intro to AI
+    - AI in research - questions?
+    - How to do a lit review
+      - expert opinions - need a sociologist to help carry this out
+      - snowball - overkill, but might work when we really get groovin
+    - Rough def of $\pi$ and $V^\pi_\theta$, currently looking at how to calculate $\nabla_\theta \log \pi_\theta$, just $g(s)$??
+    - Grading: 4 papers in, one realllllly rough, others are okay. 
+- What is relationship between SI, RL, and GA?
+- Do more themed pres in NISL?
+- What does the end goal for Yabet look like? What are we aiming for?
+- Timeline: 
+  - Wed: PRA research/grading
+  - Thur: PRA research/grading
+  - Fri: grading
+  - Sat: ants research
+  - Sun: break?
+  - Mon: Museum
+  - Tues: Museum
+  - Wed: Museum
+- What do we want for next week?
+  - Algorithm of PPOACO
+  - next couple weeks look into saphire
+  - Look into the show Upload (set in 2033).
+- Notes for this week:
+  - IML students might be getting power to computing hub
+  - Stibetz
+    - russ taylor - medical robotics
+    - charles lim - cochlear implants
+  - backward-forward parallel of work
 {:.notice}
 
 
@@ -40,9 +50,6 @@ museum:<br>
 - completed from history
 - goal to be done by mid summer
 
-**TODO TODAY**
-- Work on formulation of PPOACO
-{:.notice}
 
 # School
 - [Animate Your Science Poster](https://www.animateyour.science/scientific-poster-design-course)
