@@ -1,1 +1,5 @@
-bundle exec jekyll serve --livereload
+#! /bin/bash
+
+bundle exec jekyll serve --livereload  
+
+

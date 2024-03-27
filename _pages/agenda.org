@@ -1,0 +1,34 @@
+#+Title: Agenda
+#+Date: <2024-02-29 Thu>
+#+Author: Will Jardee
+
+* General TODO
+** TODO [#C] Transform webiste to Al-folio
+** TODO [#C] Create NISL website with with github
+** TODO [#C] Add beamer, sty, and pptx to github
+** TODO [#C] Investigate Github organizations
+** TODO [#C] Add teaching entries to website
+** TODO [#C] Update CV
+** TODO [#C] Clean up blog posts
+** TODO Add favicon
+** TODO Clean blog
+** Clear out old
+** Add in AI philosophy
+** Add conda in Window
+** TODO CV
+** Add digitial CV
+** Add context in CV
+** TODO Teaching
+** Add entries
+** Clean up old entries; add links
+** TODO Projects
+** Add tab for each project
+** TODO DND
+** Clean up landing page
+** Add links
+** TODO Linux
+** Add personal linux build
+** Add links
+** Add bash scripts
+
+* DONE Flesh out TODO/what I need from others

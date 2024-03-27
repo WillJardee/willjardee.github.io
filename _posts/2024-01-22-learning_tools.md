@@ -58,3 +58,6 @@ tags:
 - [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 - [Arch Linux setup guide tailored towards data science, R, and spatial analysis](https://pat-s.me/arch-install-guide-for-r/)
 - [A tmux Crash Course](https://thoughtbot.com/blog/a-tmux-crash-course)
+
+# Bash
+- [Learn Linux TV](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=tG9Qt-ONLscInZvk)
